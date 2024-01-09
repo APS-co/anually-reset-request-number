@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sequence:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sequence_jar</output-path>
+    <root id="archive" name="sequence.jar">
+      <element id="module-output" name="sequence" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/ojdbc8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
